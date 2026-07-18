@@ -6,7 +6,7 @@ README
 
 This project uses **Python and pandas** to analyze student performance data.
 
-The goal is to practice data handling techniques such as grouping, counting, averaging, sorting, and creating new data columns using pandas methods.
+The goal is to use data handling techniques such as grouping, counting, averaging, sorting, and creating new data columns using pandas methods.
 
 ## Dataset
 
@@ -37,7 +37,7 @@ Install pandas:
 
 ```bash
 pip install pandas
-```
+```or terminal of choice
 
 ## Running the Project
 
@@ -45,10 +45,10 @@ Run:
 
 ```bash
 python student_analysis.py
-```
+```or terminal of chocie
 
-The program will print the analysis results to the console.
+The program will print the analysis results to the terminal.
 
 ## Purpose
 
-This project demonstrates basic data analysis skills used in data science, automation, and AI workflows.
+This python program demonstrates basic data analysis skills used in  AI workflows.
