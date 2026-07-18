@@ -35,17 +35,17 @@ The program answers the following questions:
 
 Install pandas:
 
-```bash
+```bash or terminal of choice
 pip install pandas
-```or terminal of choice
+```
 
 ## Running the Project
 
 Run:
 
-```bash
+```bash or terminal of choice
 python student_analysis.py
-```or terminal of chocie
+```
 
 The program will print the analysis results to the terminal.
 
